@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2247",
+  "folder": "Other__view_20260522012828_4fbc93",
+  "base_name": "Other__view_20260522012828_4fbc93.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/erfansarkhani/Cloud-Downloads-2/releases/tag/co-releases-v1-2247",
+  "files": [
+    {
+      "name": "Other__view_20260522012828_4fbc93.bin",
+      "url": "https://github.com/erfansarkhani/Cloud-Downloads-2/releases/download/co-releases-v1-2247/Other__view_20260522012828_4fbc93.bin",
+      "api_url": "https://api.github.com/repos/erfansarkhani/Cloud-Downloads-2/releases/assets/426643860",
+      "id": 426643860,
+      "size": 114557,
+      "download_count": 0
+    }
+  ]
+}
